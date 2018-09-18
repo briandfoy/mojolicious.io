@@ -1,7 +1,8 @@
 ---
 title: 'Interact with the GitHub API'
 tags:
-    - promises
+    - github
+    - mojo-useragent
 author: brian d foy
 images:
   banner:
