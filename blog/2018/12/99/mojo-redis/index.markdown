@@ -1,7 +1,7 @@
 ---
 title: 'Create your own link shortening with Mojolicious and Redis'
 tags:
-    - promises
+    - redis
 author: brian d foy
 images:
   banner:
